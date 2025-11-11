@@ -1,1 +1,7 @@
 Hi
+
+
+story-131
+
+int g =  a*b*c;
+
